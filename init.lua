@@ -840,7 +840,8 @@ require('lazy').setup({
       }
     end,
     init = function()
-      vim.cmd.colorscheme 'catppuccin-latte'
+      vim.cmd.colorscheme 'catppuccin'
+      -- vim.cmd.colorscheme 'catppuccin-latte'
     end,
   },
   -- { -- You can easily change to a different colorscheme.
