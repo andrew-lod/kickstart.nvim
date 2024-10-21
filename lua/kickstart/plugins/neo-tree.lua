@@ -21,5 +21,8 @@ return {
         },
       },
     },
+    ensure_installed = {
+      'java',
+    },
   },
 }
