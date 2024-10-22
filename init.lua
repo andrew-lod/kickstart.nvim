@@ -947,6 +947,7 @@ require('lazy').setup({
   require 'plugins.chatGPT',
   require 'plugins.command-completion',
   require 'plugins.lazygit',
+  require 'plugins.rest-nvim',
   -- require 'plugins.kulala',
 
   -- NOTE: The import below can automatically add your own plugins, configuration, etc from `lua/custom/plugins/*.lua`
